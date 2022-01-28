@@ -63,7 +63,7 @@
   
   <p align="center">
   <a href="https://www.linkedin.com/in/sourav-shukla/" target="_blank">
-    <img alt=" Linkedin" src="https://i.pinimg.com/originals/d3/3b/d9/d33bd9baa83a336184055c07dc8ccaa8.gif"  width="100" height="100">
+    <img alt=" Linkedin" src="https://i.pinimg.com/originals/d3/3b/d9/d33bd9baa83a336184055c07dc8ccaa8.gif"  width="50" height="50">
   <a/>
  
 </p>
