@@ -25,7 +25,7 @@
   <a/>
  
   <a href="https://www.instagram.com/100_raav/" target="_blank">
-  <img alt=" Instagram" src="https://cdn.dribbble.com/users/2475489/screenshots/9553468/1-instagram.gif"  width="100" height="100">
+  <img alt=" Instagram" src="http://cdn.shopify.com/s/files/1/1057/8088/products/instagram-logo-animation_grande.gif?v=1484764300"  width="50" height="50">
 <a/>
  
  
