@@ -24,8 +24,8 @@
     <img alt=" Linkedin" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  width="50" height="50">
   <a/>
  
- - <a href="https://www.instagram.com/100_raav/" target="_blank">
-    <img alt=" Linkedin" src="https://thumbs.gfycat.com/IncompleteTightDanishswedishfarmdog-size_restricted.gif"  width="50" height="50">
+  <a href="https://www.instagram.com/100_raav/" target="_blank">
+    <img alt=" Instagram" src="https://thumbs.gfycat.com/IncompleteTightDanishswedishfarmdog-size_restricted.gif"  width="50" height="50">
   <a/>
  
  
