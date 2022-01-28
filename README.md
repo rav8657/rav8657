@@ -25,8 +25,8 @@
   <a/>
  
   <a href="https://www.instagram.com/100_raav/" target="_blank">
-    <img alt=" Instagram" src="https://thumbs.gfycat.com/IncompleteTightDanishswedishfarmdog-size_restricted.gif"  width="50" height="50">
-  <a/>
+  <img alt=" Instagram" src="https://cdn.dribbble.com/users/2475489/screenshots/9553468/1-instagram.gif"  width="100" height="100">
+<a/>
  
  
  
