@@ -67,9 +67,12 @@ height="60" target="_blank">
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
             alt="redis" width="40" height="40" /> </a>&nbsp; <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a></p>
+            alt="nodejs" width="40" height="40" /> </a>&nbsp;
+  <a href="" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+            alt="vsCode" width="40" height="40" /> </a></p>
 
-<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!-- 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
@@ -85,11 +88,7 @@ height="60" target="_blank">
 <!-- <img align="left" alt="MongoDB" width="30px" src="https://code4developers.com/wp-content/uploads/2019/10/MongoDBicon.png" /> -->
 <!-- <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
 <!-- <img align="left" alt="AWS" width="30px" src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg" />
-<a href="https://postman.com" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" margin ="10px"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align ="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
- <a href="https://redis.io" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="40" height="40" /> </a> -->
+-->
      
 <br/>
 <br/>
