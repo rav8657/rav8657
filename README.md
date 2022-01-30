@@ -20,7 +20,7 @@
 <br />
 
 ## Connect with Me
-- <a href="https://www.linkedin.com/in/sourav-shukla/" target="_blank">
+<p align="left" target="_blank"> <a href="https://www.linkedin.com/in/sourav-shukla/" target="_blank">
     <img alt=" Linkedin" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  width="50" height="50">
   <a/>
  
@@ -29,6 +29,7 @@
 src="https://aloharag-hi-ny-jp.typepad.com/.a/6a0120a6c95938970b0148c785497f970c-580wi" width="70"
 height="60" target="_blank">
 <a />
+ </p>
  
 <!--   <a href="https://www.instagram.com/100_raav/" target="_blank">
   <img alt=" Instagram" src="https://www.adweek.com/wp-content/uploads/2017/05/instagram-celebs-PAGE-2017.gif"  width="80" height="50">
