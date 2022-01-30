@@ -1,7 +1,6 @@
 ### Hey, I'm Sourav  👋
 
 
-
  <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850" height="320" />
  <br/>
  
@@ -57,7 +56,7 @@
       <a/>
     </td>
     <td>
-      <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
+      <a href="" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav8657&theme=ayu-mirage&layout=compact&hide_border=true" alt="sourav's language stats">
       <a/>
     </td>
@@ -65,7 +64,7 @@
   <tr>
   <tr>
     <td>
-      <a href="https://still-taiga-23032.herokuapp.com/" target="_blank">
+      <a href="" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rav8657&theme=ayu-mirage&hide_border=true" alt="sourav streak stats">
       <a/>
     </td>
