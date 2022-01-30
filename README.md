@@ -56,7 +56,7 @@
       <a/>
     </td>
     <td>
-      <a href="" target="_blank">
+      <a href="https://github.com/rav8657" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rav8657&theme=ayu-mirage&layout=compact&hide_border=true" alt="sourav's language stats">
       <a/>
     </td>
@@ -64,7 +64,7 @@
   <tr>
   <tr>
     <td>
-      <a href="" target="_blank">
+      <a href="https://github.com/rav8657" target="_blank">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=rav8657&theme=ayu-mirage&hide_border=true" alt="sourav streak stats">
       <a/>
     </td>
