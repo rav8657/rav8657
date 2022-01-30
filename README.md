@@ -1,7 +1,8 @@
 ### Hey, I'm Sourav  👋
 
-
- <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850" height="320" />
+<img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="850" height="320" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" width="850" height="320" />
+ 
  <br/>
  
  
@@ -22,6 +23,12 @@
 - <a href="https://www.linkedin.com/in/sourav-shukla/" target="_blank">
     <img alt=" Linkedin" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif"  width="50" height="50">
   <a/>
+ 
+<a href="https://twitter.com/@tweet2srv" >
+<img alt=" twitter"
+src="https://aloharag-hi-ny-jp.typepad.com/.a/6a0120a6c95938970b0148c785497f970c-580wi" width="70"
+height="60" target="_blank">
+<a />
  
 <!--   <a href="https://www.instagram.com/100_raav/" target="_blank">
   <img alt=" Instagram" src="https://www.adweek.com/wp-content/uploads/2017/05/instagram-celebs-PAGE-2017.gif"  width="80" height="50">
@@ -73,6 +80,21 @@
 </table>
  
 </p>
+
+ <p align="center"> If you find my work good, consider giving it a ⭐ to show some ❤️!</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
