@@ -14,10 +14,14 @@
  &nbsp;
  
 ##  Open-Source enthusiast || Coder !!
-- 👯 I’m looking to collaborate on open source
+- 🔭 I’m currently working on **Some backend projects**
+- 🌱 I’m currently learning **nodeJs,MongoDB,Express,Redis**
+- 👯 I’m looking to collaborate for **more backend projects**
+- 🤝 I’m looking for help to **enhance my skills**
 - 💬 Ask me about ... Anything
 - 📫 If you want to talk to me feel free to email me at `rav8657@gmail.com`
 - 🙇‍♂️ Languages : `English` `Hindi`
+- 📄 Know about my experiences https://rav8657.github.io/sourav.github.io/
 
 
 <br />
