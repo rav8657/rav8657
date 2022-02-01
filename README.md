@@ -2,6 +2,8 @@
 <h1 align="center"> Hey, I'm Sourav  👋</h1>
 
 <h3 align="center">An enthusiastic Backend developer <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist_1f468-200d-1f4bb.png" width="30" height = "30"></h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rav8657&label=Profile%20views&color=0e75b6&style=flat"
+        alt="sourav kumar shukla" /> </p>
 
 
 <img align="right" alt="GIF" src="https://github.com/neoighodaro/neoighodaro/blob/master/5CEBA381-C26B-42C7-B5DD-DBEF3BC73697.gif" width="1000" height="320" />
